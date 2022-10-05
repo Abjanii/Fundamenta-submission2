@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kim-Submission2</string>
+    <string name="Log_in">Login</string>
+    <string name="IdLogin">Id Login</string>
+    <string name="tab_1">Follower</string>
+    <string name="tab_2">Following</string>
+    <string name="splash_gambar">Logo</string>
+    <string name="Menu1">Setting</string>
+    <string name="find_your_connection">Find your connection…</string>
+    <string name="copyright">Build with By Muslim Hakim Muhammad 2022 ©Dicoding</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
